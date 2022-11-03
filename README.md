@@ -1,5 +1,12 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## created by 21343065_PUTI ZAFANIA
+
+1. Latihan 1 : Mobil= merupakan class yang didalamnya terdapat atribut dan methodnya
+                Mobil Main = merupakan class utama yang mana menggunakan class mobil sebagai objeknya.
+2. Latihan 2 : Membuat class Manusia yang didalamnya terdapat sebuah object dan beberapa method yang nantinya pada hasil keluaran akan diminta inputan data dengan metode Scanner. setelah menginputkan data maka akan dikeluarkan hasil inputan dengan method yang telah digunakan.
+3. Latihan 3 : Mahasiswa= merupakan suatu class yang menjadi patokan variabel untuk main class nya
+                InfromatikaUNP= merupakan main class dari class mahasiswa, pada class ini terdapat dua                               objek yaitu informatika dan elektronika. objek ditulis berdasarkan variabel                            dari class Mahasiswa.
+4. Latihan 4 : membuat sebuah class dengan nama Aktor yang didalamnya terdapat sebuag objen yang merupakan turunan dari class. pada class ini menggunakan method dan constructor dalam membangunnya.
+5. Tugas 1 :  Tugas1 = sebuah class yang didalamnya terdapat method dan atribut
+               Tugas1Main = meruapakan class yang menggunakan class Tugas1 sebagai objk. pada class ini                         hanya memanggil method-method pada class Tugas1.
+6. Tugas2   : Tugas2 = merupakan sebuah class yang berisi method-method untuk main class
+              Tugas2Main = merupakam suatu class yang memanggil class Tugas2 untuk objeknya. Pada                                   outputnya akan diminta inputan pada pengguna yang nantinya akan diproses                                  oleh method-method pada class Tugas2. 
